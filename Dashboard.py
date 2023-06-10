@@ -27,7 +27,7 @@ def execute_notebook(notebook_path):
     return nb
 
 # Set the working directory
-os.chdir('C:/Users/visha/OneDrive/Documents/GitHub/CoAuthorViz_Dashboard')
+os.chdir('C:/GitHub/CoAuthorViz_Dashboard')
 
 notebook1 = execute_notebook("cluster_analysis.ipynb")
 notebook2 = execute_notebook("cluster_analysis_new.ipynb")
