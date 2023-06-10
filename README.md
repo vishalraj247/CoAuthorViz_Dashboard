@@ -1,9 +1,6 @@
-# CoAuthorViz_Dashboard
- Cluster Analysis Dashboard of CoAuthor keystroke data
- 
-# Co-Authorship Visualization with GPT-3
+# Co-Authorship Visualization (CoAuthorViz) with GPT-3
 
-This repository contains the work done during my internship under Dr. Shibani Antonette at University of Technology Sydney. The project involves the analysis of co-authorship with GPT-3 and visualising the results.
+This repository contains the work done during my internship under Dr. Shibani Antonette at University of Technology Sydney. The project involves the analysis of keystroke data of writers co-authorship with GPT-3 and visualising the results.
 
 ## Project Overview
 
