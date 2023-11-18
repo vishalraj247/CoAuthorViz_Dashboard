@@ -1,6 +1,6 @@
 # Co-Authorship Visualization (CoAuthorViz) with GPT-3
 
-This repository contains the work done during my internship under Dr. Shibani Antonette at University of Technology Sydney. The project involves the analysis of keystroke data of writers co-authorship with GPT-3 and visualising the results.
+This repository contains the work done during my internship under Dr. Shibani Antonette at the University of Technology Sydney. The project involves the analysis of keystroke data of writers co-authorship with GPT-3 and visualising the results. Here, I delved into user interactions with GPT-3, employing data visualization and clustering to uncover behavioural patterns. I created dashboards to distil complex insights, enhancing AI content generation. My work culminated in presentations to diverse audiences, highlighting AI's influence on user experience.
 
 ## Project Overview
 
@@ -8,8 +8,8 @@ The project is divided into several parts:
 
 1. **Research Paper Analysis**: Analysis of the research paper authored by my professor and other related papers.
 2. **Python Notebooks**: Two Python Jupyter notebooks where I performed clustering and created various visualizations.
-3. **Datasets**: Three datasets used in the analysis in the Jupyter notebooks.
-4. **Python Script**: A Python script file which contains a dashboard for an educator.
+3. **Datasets**: Three datasets were used in the analysis in the Jupyter notebooks.
+4. **Python Script**: A Python script file that contains a dashboard for an educator.
 
 ## Repository Structure
 
